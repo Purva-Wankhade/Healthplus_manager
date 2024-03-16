@@ -1,30 +1,5 @@
-# Healthplus_manager
-This Hospital Management System is a comprehensive web-based application designed to streamline the administrative, patient management, and overall operations of a healthcare facility. Developed using PHP, MySQL, and Bootstrap, it offers a user-friendly interface for hospital staff to efficiently manage various aspects of their daily tasks.
-
-**Features:**
-**Patient Management:**
-
-•	Register new patients with detailed information including name, age, contact details, and medical history.
-•	Generate unique patient IDs for easy tracking and management.
-•	Maintain a comprehensive database of patient records for quick access.
-
-**Appointment Scheduling:**
-
-•	Schedule patient appointments with doctors and specialists.
-•	View and manage upcoming appointments.
-•	Send automated appointment reminders to patients via email or SMS.
-
-**Doctor Management:**
-
-•	Add new doctors to the system with their specialization, contact information, and availability.
-•	Assign patients to doctors based on their specialization and availability.
-•	View doctor profiles and schedules.
-
-**Billing and Invoicing:**
-
-•	Generate and manage bills for patients' treatments, consultations, and services.
-•	Keep track of payments, outstanding balances, and payment histories.
-•	Print or email invoices directly from the system.
+# Hospital Management System
+Healthplus manager using MySQL, Php and Bootstrap
 
 
 ## Languages and Technologies used
@@ -50,7 +25,9 @@ This Hospital Management System is a comprehensive web-based application designe
   - XAMPP was installed on the Ubuntu 19.04 machine and APACHE2 Server and MySQL were initialized. And, files were built inside opt/lampp/htdocs/myhmsp
   - Sublime Text 3.2 was used as a text editor.
   - Google Chrome Version 77.0.3865.90 was used to run the project (localhost/myhmsp was used as the url).
+  
+  
 
-**images of system :**
+
 
 
