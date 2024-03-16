@@ -1,5 +1,34 @@
 # Hospital Management System
 Healthplus manager using MySQL, Php and Bootstrap
+Features:
+
+**Patient Management:**
+
+•	Register new patients with detailed information including name, age, contact details, and medical history.
+•	Generate unique patient IDs for easy tracking and management.
+•	Maintain a comprehensive database of patient records for quick access.
+
+****Appointment Scheduling:**
+
+•	Schedule patient appointments with doctors and specialists.
+•	View and manage upcoming appointments.
+•	Send automated appointment reminders to patients via email or SMS.
+
+**Doctor Management:**
+
+•	Add new doctors to the system with their specialization, contact information, and availability.
+•	Assign patients to doctors based on their specialization and availability.
+•	View doctor profiles and schedules.
+
+**Billing and Invoicing:**
+
+•	Generate and manage bills for patients' treatments, consultations, and services.
+•	Keep track of payments, outstanding balances, and payment histories.
+•	Print or email invoices directly from the system.
+
+
+# Hospital Management System
+Healthplus manager using MySQL, Php and Bootstrap
 
 
 ## Languages and Technologies used
